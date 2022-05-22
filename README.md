@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ansible and Automation. redhat AAC
 - 🌱 I’m currently learning redhat AAC
 - 💞️ I’m looking to collaborate on ansible potato
-- 📫 How to reach me ...
+- 📫 How to reach me git@brenden.co.nz
 
 <!---
 MordakNZ/MordakNZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
