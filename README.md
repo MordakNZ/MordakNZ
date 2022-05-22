@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MordakNZ
 - 👀 I’m interested in Ansible and Automation. redhat AAC
 - 🌱 I’m currently learning redhat AAC
-- 💞️ I’m looking to collaborate on ansible potato
+- 💞️ I’m looking to collaborate on ansible potato spud - the free version of Tower
 - 📫 How to reach me git@brenden.co.nz
 
 <!---
